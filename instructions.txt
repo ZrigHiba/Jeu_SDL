@@ -1,4 +1,7 @@
 le 07/03/2019
-Vous devez ajouter les différents organigrammes
-Ajouter les différentes images du jeux (background, joueurs, entités secondaires...)
+Vous devez ajouter les différents organigrammes (j'attends encore l'update)
+Ajouter les différentes images du jeux (background, Menu, joueurs, entités secondaires...)
 Mettre à jour les fichiers du code (main.c, functions.h et functions.c).
+15/03/2019
+Vous n'avez rien fait des taches demandées. Essayez de les faire le plutôt possible
+Ajouter les autres membres du groupe au git
