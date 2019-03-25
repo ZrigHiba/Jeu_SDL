@@ -5,3 +5,8 @@ Mettre à jour les fichiers du code (main.c, functions.h et functions.c).
 15/03/2019
 Vous n'avez rien fait des taches demandées. Essayez de les faire le plutôt possible
 Ajouter les autres membres du groupe au git
+25/03/2019
+Merci Hiba pour les diagrammes mais j'aurais bien voulu les avoir sous forme d'image
+J'attends encore le fichier.c, où est ce que vous en êtes arrivés.
+Tu peux répondre dans ce fichier ou sur l'émail du groupe.
+NB: la semaine après les vacances sera consacrée à l'étape du test et commencer l'intégration
