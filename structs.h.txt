@@ -1,0 +1,21 @@
+#ifndef STRUCT_H_INCLUDED
+#define STRUCT_H_INCLUDED
+#include <SDL/SDL.h>
+#include <SDL/SDL_mixer.h>
+#include <SDL/SDL_image.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <SDL/SDL_ttf.h>
+#include <time.h>
+
+
+typedef struct 
+{
+		
+SDL_Surface *ecran,*background,*background_collision,*alex_right[2],*alex_left[2],*alex_top[2],*alexbot[2];
+SDL_Rect pos_personnage,pos_personnage_onscreen,position_text,position_back,pos_camera,pos_score;
+
+
+}personnage;
+void initialisation_personnage(personnage *st);
+void afficher_personnage(personnage *st,int *continuer);
